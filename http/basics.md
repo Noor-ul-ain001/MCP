@@ -1,4 +1,4 @@
-# What is HTTP — simply, but in detail
+# What is HTTP 
 
 Imagine the web as people sending letters to each other. **HTTP (HyperText Transfer Protocol)** is the set of rules those people use to write the letters so everyone understands them. In practice:
 
@@ -174,3 +174,4 @@ Newer versions aim to make page loads faster and more reliable.
 * Use **HTTPS** always for sensitive data
 
 ---
+
